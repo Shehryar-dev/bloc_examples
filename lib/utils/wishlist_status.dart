@@ -1,0 +1,1 @@
+enum WishlistStatus{loading, success, failure}
